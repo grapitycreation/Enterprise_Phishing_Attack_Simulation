@@ -126,4 +126,4 @@ This project successfully demonstrates how a well-crafted phishing campaign can 
 - Continuous security training, email filtering, and network segmentation are essential for defense.
 
 # Demo
-Link: https://youtu.be/vrkkW1OO6ug
+Link: https://drive.google.com/drive/folders/1rFvVrgufjX5cfMLZFlDLzM7nSiHdhoRi?usp=sharing
